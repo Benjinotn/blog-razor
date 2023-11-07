@@ -10,10 +10,31 @@
     </image>
     <generator>razor-ssg</generator>
     <copyright></copyright>
-    <lastBuildDate>Mon, 06 Nov 2023 15:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 18:19:28 GMT</lastBuildDate>
     <managingEditor>email@example.org (Razor SSG)</managingEditor>
     <webMaster>email@example.org (Razor SSG)</webMaster>
     <atom:link href="https://razor-ssg.web-templates.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>ONS Campus for Data Science - Module 1</title>
+        <link>https://razor-ssg.web-templates.io/posts/module-1-campus-for-data-science</link>
+        <author> ()</author>
+        <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/module-1-campus-for-data-science</guid>
+        <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+        <atom:updated>2023-11-07T00:00:00Z</atom:updated>
+        <category>data science</category>
+        <category>L&amp;D</category>
+        <description>Key Takeaways from the first module of ONS data science campus</description>
+    </item>
+    <item>
+        <title>My Markdown favourites</title>
+        <link>https://razor-ssg.web-templates.io/posts/markdown-favourites</link>
+        <author> ()</author>
+        <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/markdown-favourites</guid>
+        <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+        <atom:updated>2023-11-07T00:00:00Z</atom:updated>
+        <category>docs</category>
+        <description>Consolidated list of ways to format good markdown</description>
+    </item>
     <item>
         <title>This is a test</title>
         <link>https://razor-ssg.web-templates.io/posts/test-blog</link>
@@ -106,29 +127,6 @@
         <category>github-actions</category>
         <category>devops</category>
         <description>Configuring your GitHub repo for SSH and CDN deployments</description>
-    </item>
-    <item>
-        <title>Tailwind Typography</title>
-        <link>https://razor-ssg.web-templates.io/posts/typography</link>
-        <author>lucy@email.org (Lucy Bates)</author>
-        <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/typography</guid>
-        <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
-        <atom:updated>2022-12-31T00:00:00Z</atom:updated>
-        <category>tailwind</category>
-        <category>markdown</category>
-        <description>tailwindcss/typography enabled for Markdown pages</description>
-    </item>
-    <item>
-        <title>In pursuit of the best value US cloud provider</title>
-        <link>https://razor-ssg.web-templates.io/posts/hetzner-cloud</link>
-        <author>brandon@email.org (Brandon Foley)</author>
-        <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/hetzner-cloud</guid>
-        <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
-        <atom:updated>2022-09-06T00:00:00Z</atom:updated>
-        <category>dev</category>
-        <category>hosting</category>
-        <category>devops</category>
-        <description>We&#x27;ve been using AWS at ServiceStack for 10&#x2B; years, it&#x27;s served us well but suffers from complex &amp; expensive pricing</description>
     </item>
 </channel>
 </rss>
