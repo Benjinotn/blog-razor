@@ -1,9 +1,10 @@
+---
 title: My Markdown favourites
 summary: Consolidated list of ways to format good markdown
 author: Ben Norton
-tags: [Docs, L&D]
+tags: [docs]
 image: https://www.markdownguide.org/assets/images/markdown-guide-og.jpg
-
+---
 # Follow this guide to be as happy as this Getty Images Llama!
 
 ![Happy getty images llama](https://media.gettyimages.com/id/154948449/photo/white-llama-in-argentina-south-america-salta-province.jpg?s=612x612&w=gi&k=20&c=bhgUzBshhHHup0mRK3uylgNQqdhEIqk-aLy4Wjzq_R0=)
