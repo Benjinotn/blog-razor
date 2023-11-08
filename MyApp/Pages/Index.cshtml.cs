@@ -7,7 +7,7 @@ public class IndexModel : PageModel
 {
     public RedirectToPageResult OnGet()
     {
-        return new RedirectToPageResult("/Blog");
+        return new RedirectToPageResult("./Blog");
     }
 
 }
