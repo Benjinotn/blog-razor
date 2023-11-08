@@ -7,7 +7,7 @@ public class IndexModel : PageModel
 {
     public LocalRedirectResult OnGet()
     {
-        return new LocalRedirectResult("./Pages/Blog");
+        return new LocalRedirectResult("~/blog");
     }
 
 }
