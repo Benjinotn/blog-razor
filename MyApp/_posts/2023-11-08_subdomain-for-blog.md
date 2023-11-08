@@ -37,6 +37,6 @@ When changing the navbar link to this new '/' location, the root isn't reference
 
 I spent $9 on a domain name. Feeling fairly sorry for myself at this stage. I added it to the settings `page` tab on github and added a CNAME configuration to the DNS so it functioned as an alias. I'm just very __lucky__ that the build.yml script that was included in the razor SSG template had conditions for building with custom domains.
 
-No weird `razor-blog` extension, no failed navbar references, The blog is default! And it is hosted [Here!](/)
+No weird `razor-blog` extension, no failed navbar references, The blog is default! And it is hosted [Here!](/posts/)
 
 My next plans are to add commenting, user functionality for some discussion. But judging by the speed of this features implementation, it won't be here any time soon!
