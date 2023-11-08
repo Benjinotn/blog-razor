@@ -14,9 +14,9 @@ public class IndexModel : PageModel
     public LocalRedirectResult OnGet()
     {
 
-        if(_env.EnvironmentName == "Development")
+        if(_env.IsDevelopment())
             return new LocalRedirectResult("~/blog");
-        return new LocalRedirectResult("/blog-razor/blog");
+        return new LocalRedirectResult("~/blog-razor/blog");
     }
 
 }
