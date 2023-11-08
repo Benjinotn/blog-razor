@@ -5,9 +5,18 @@ namespace MyApp.Pages;
 
 public class IndexModel : PageModel
 {
+
+    private readonly IWebHostEnvironment _env;
+    public IndexModel(IWebHostEnvironment env)
+    {
+        _env = env;
+    }
     public LocalRedirectResult OnGet()
     {
-        return new LocalRedirectResult("~/blog");
+
+        if(_env.EnvironmentName == "Development")
+            return new LocalRedirectResult("~/blog");
+        return new LocalRedirectResult("/blog-razor/blog");
     }
 
 }
