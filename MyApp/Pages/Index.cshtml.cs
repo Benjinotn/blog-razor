@@ -5,9 +5,9 @@ namespace MyApp;
 
 public class IndexModel : PageModel
 {
-    public RedirectToPageResult OnGet()
+    public LocalRedirectResult OnGet()
     {
-        return new RedirectToPageResult("./Blog");
+        return new LocalRedirectResult("~/Blog");
     }
 
 }
