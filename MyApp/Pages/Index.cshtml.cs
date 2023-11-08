@@ -16,7 +16,7 @@ public class IndexModel : PageModel
 
         if(_env.IsDevelopment())
             return new LocalRedirectResult("/blog");
-        return new LocalRedirectResult("/blog-razor/blog");
+        return null;
     }
 
 }
