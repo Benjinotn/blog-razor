@@ -1,23 +1,23 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-    <title>From the blog</title>
+    <title>The Blog</title>
     <link>https://razor-ssg.web-templates.io/blog</link>
     <description>Writing on software design, company building, and the aerospace industry.</description>
     <image>
         <url>https://servicestack.net/img/logo.png</url>
-        <title>From the blog</title>
+        <title>The Blog</title>
         <link>https://razor-ssg.web-templates.io/blog</link>
     </image>
     <generator>razor-ssg</generator>
     <copyright></copyright>
-    <lastBuildDate>Tue, 07 Nov 2023 18:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 12:32:22 GMT</lastBuildDate>
     <managingEditor>email@example.org (Razor SSG)</managingEditor>
     <webMaster>email@example.org (Razor SSG)</webMaster>
     <atom:link href="https://razor-ssg.web-templates.io/feed.xml" rel="self" type="application/rss+xml" />
     <item>
         <title>ONS Campus for Data Science - Module 1</title>
         <link>https://razor-ssg.web-templates.io/posts/module-1-campus-for-data-science</link>
-        <author> ()</author>
+        <author>Ben@email.org (Ben Norton)</author>
         <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/module-1-campus-for-data-science</guid>
         <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
         <atom:updated>2023-11-07T00:00:00Z</atom:updated>
@@ -28,7 +28,7 @@
     <item>
         <title>My Markdown favourites</title>
         <link>https://razor-ssg.web-templates.io/posts/markdown-favourites</link>
-        <author> ()</author>
+        <author>Ben@email.org (Ben Norton)</author>
         <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/markdown-favourites</guid>
         <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
         <atom:updated>2023-11-07T00:00:00Z</atom:updated>
