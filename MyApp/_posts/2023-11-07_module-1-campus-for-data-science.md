@@ -11,7 +11,7 @@ image: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/
 It was good to relearn Git. Before it was 50/50 if I merged correctly.
 
 |Command | Purpose |
-|:-------|:------|:---------|
+|:-------|:------|
 |`git init`|initialises a git repo in your current directory|
 |`git add <file name>`|adds a specific file to be tracked by git and any changes made|
 |`git add .`|adds all untracked files and changes made|
