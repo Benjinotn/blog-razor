@@ -10,7 +10,7 @@
     </image>
     <generator>razor-ssg</generator>
     <copyright></copyright>
-    <lastBuildDate>Thu, 09 Nov 2023 11:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:55:08 GMT</lastBuildDate>
     <managingEditor>email@example.org (Razor SSG)</managingEditor>
     <webMaster>email@example.org (Razor SSG)</webMaster>
     <atom:link href="https://razor-ssg.web-templates.io/feed.xml" rel="self" type="application/rss+xml" />
@@ -26,6 +26,16 @@
         <description>ASP.NET Razor pages hurt my brain, fortunately Razor SSG has been the perfect platform for me to learn the basics.</description>
     </item>
     <item>
+        <title>My Markdown favourites</title>
+        <link>https://razor-ssg.web-templates.io/posts/markdown-favourites</link>
+        <author>Ben@email.org (Ben Norton)</author>
+        <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/markdown-favourites</guid>
+        <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+        <atom:updated>2023-11-07T00:00:00Z</atom:updated>
+        <category>docs</category>
+        <description>Consolidated list of ways to format good markdown</description>
+    </item>
+    <item>
         <title>ONS Campus for Data Science - Module 1</title>
         <link>https://razor-ssg.web-templates.io/posts/module-1-campus-for-data-science</link>
         <author>Ben@email.org (Ben Norton)</author>
@@ -36,16 +46,6 @@
         <category>L&amp;D</category>
         <category>git</category>
         <description>Key Takeaways from the first module of ONS data science campus</description>
-    </item>
-    <item>
-        <title>My Markdown favourites</title>
-        <link>https://razor-ssg.web-templates.io/posts/markdown-favourites</link>
-        <author>Ben@email.org (Ben Norton)</author>
-        <guid isPermaLink="false">https://razor-ssg.web-templates.io/posts/markdown-favourites</guid>
-        <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
-        <atom:updated>2023-11-07T00:00:00Z</atom:updated>
-        <category>docs</category>
-        <description>Consolidated list of ways to format good markdown</description>
     </item>
     <item>
         <title>This is a test</title>
